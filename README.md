@@ -1,1 +1,1 @@
-/node_modules/
+# Competition Kit
